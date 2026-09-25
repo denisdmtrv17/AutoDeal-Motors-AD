@@ -1,0 +1,10 @@
+# Nmap 7.95 scan initiated Fri Sep 25 19:12:59 2026 as: nmap -sV -p 8080 -oN s02-lab/nmap.txt 10.80.0.50
+Nmap scan report for 10.80.0.50
+Host is up (0.00095s latency).
+
+PORT     STATE SERVICE VERSION
+8080/tcp open  http    Apache httpd 2.4.49 ((Unix))
+MAC Address: 08:00:27:05:9D:7C (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Sep 25 19:13:06 2026 -- 1 IP address (1 host up) scanned in 6.37 seconds
