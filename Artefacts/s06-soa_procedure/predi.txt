@@ -1,0 +1,8 @@
+2026-11-05T19:10:37+02:00
+Server
+logingracetime 120
+maxauthtries 6
+permitrootlogin without-password
+pubkeyauthentication yes
+passwordauthentication yes
+kbdinteractiveauthentication no

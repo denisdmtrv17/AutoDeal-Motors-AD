@@ -1,0 +1,10 @@
+ACC-01 отрицателни тестове gw 10.80.0.1 -> srv 10.80.0.50  2026-11-05T20:55:56+02:00
+--- Т-1: admin само с парола
+admin@10.80.0.50: Permission denied (publickey).
+exit=255
+--- Т-2: root
+root@10.80.0.50: Permission denied (publickey).
+exit=255
+--- Т-3: proba с валиден ключ, извън ssh-dostap
+proba@10.80.0.50: Permission denied (publickey).
+exit=255

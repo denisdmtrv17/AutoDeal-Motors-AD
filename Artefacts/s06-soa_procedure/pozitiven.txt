@@ -1,0 +1,5 @@
+2026-11-05T20:55:17+02:00
+Server
+admin sudo users ssh-dostap
+exit=0
+DMS 8080 HTTP 000

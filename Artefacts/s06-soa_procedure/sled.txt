@@ -1,0 +1,10 @@
+2026-11-05T20:43:47+02:00
+Server
+logingracetime 30
+maxauthtries 3
+permitrootlogin no
+pubkeyauthentication yes
+passwordauthentication no
+kbdinteractiveauthentication no
+allowgroups ssh-dostap
+authenticationmethods publickey

@@ -1,0 +1,6 @@
+Nov 05 20:41:34 Server sshd-session[1544]: Accepted publickey for admin from 10.80.0.1 port 41980 ssh2: ED25519 SHA256:TmhQtG1Idl6kJ78m6ojQ3lWLjckrNZez2apWwGS+TLc
+Nov 05 20:55:17 Server sshd-session[1570]: Accepted publickey for admin from 10.80.0.1 port 51550 ssh2: ED25519 SHA256:TmhQtG1Idl6kJ78m6ojQ3lWLjckrNZez2apWwGS+TLc
+Nov 05 20:55:57 Server sshd-session[1584]: User root from 10.80.0.1 not allowed because none of user's groups are listed in AllowGroups
+Nov 05 20:55:57 Server sshd-session[1584]: Connection closed by invalid user root 10.80.0.1 port 40498 [preauth]
+Nov 05 20:55:57 Server sshd-session[1586]: User proba from 10.80.0.1 not allowed because none of user's groups are listed in AllowGroups
+Nov 05 20:55:57 Server sshd-session[1586]: Connection closed by invalid user proba 10.80.0.1 port 40502 [preauth]
